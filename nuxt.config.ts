@@ -3,5 +3,8 @@ export default defineNuxtConfig({
   typescript: {
     shim: false
   },
-  devtools: { enabled: true }
+  devtools: { enabled: true },
+  css: [
+    '~/node_modules/bootstrap/dist/css/bootstrap.css',
+  ]
 })

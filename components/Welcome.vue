@@ -1,6 +1,6 @@
 <template>
   <div>
-    <h1 >Hello World</h1>
+    <h1 class="text-center">Hello World</h1>
   </div>
 </template>
 
@@ -9,7 +9,4 @@
 </script>
 
 
-
-<style>
-
-</style>
+<style></style>

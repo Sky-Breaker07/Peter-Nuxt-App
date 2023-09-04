@@ -4,9 +4,6 @@ export default defineNuxtConfig({
     shim: false
   },
   devtools: { enabled: true },
-  css: [
-    '~/node_modules/bootstrap/dist/css/bootstrap.css'
-    
-  ],
   modules: ['@nuxtjs/tailwindcss']
 })
+
